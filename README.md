@@ -1,4 +1,4 @@
-<h1>Stack and Queue Practice</h1>
+<h1>Stack and Queue</h1>
 
 
 <h2>Description</h2>
